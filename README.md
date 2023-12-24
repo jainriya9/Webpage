@@ -19,7 +19,7 @@
 ![PAGE](https://github.com/jainriya9/Webpage/blob/main/homepage1.png?raw=true)
 
 <H1> SERVICES PROVIDED </H1>
-<0l>
+<ol>
   <li> Emergency Care</li>
   <li> Operation and Surgery</li>
   <li> Outdoor Checkup</li>
